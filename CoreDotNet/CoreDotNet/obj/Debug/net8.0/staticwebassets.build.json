@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SnJJmdAFSUxZXxZqqkI/WLm9AX8IFMThyTSx9wIbgdg=",
+  "Source": "CoreDotNet",
+  "BasePath": "_content/CoreDotNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
